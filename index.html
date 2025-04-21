@@ -69,7 +69,7 @@
     <div class="login-box">
         <h2>Login Sistema</h2>
         <!-- <h2><a href="painel.php">Login</a></h2> -->
-        <form method="POST" action="painel.php">
+        <form method="POST" action="painel.html">
             <input type="text" name="usuario" placeholder="Usuário" required><br>
             <input type="password" name="senha" placeholder="Senha" required><br>
             <input type="submit" value="Entrar">
